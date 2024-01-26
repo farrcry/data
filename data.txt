@@ -1,1 +1,7 @@
-Melody 디친구
+id1
+id2
+id3
+n
+l1
+l2
+n
